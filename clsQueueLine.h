@@ -2,7 +2,7 @@
 #include <string>
 #include <queue>
 #include <stack>
-#include "../../Liberaries/ClsDate.h"
+#include "ClsDate.h"
 #include <iomanip>
 using namespace std;
 
